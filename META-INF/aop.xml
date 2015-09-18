@@ -1,0 +1,9 @@
+<aspectj>
+	<aspects>
+		<aspect name="LoggingAspect" />
+	</aspects>
+	<!-- <weaver options="-verbose -showWeaveInfo -debug">
+		<include within="AClass" />
+	</weaver> -->
+</aspectj>
+
